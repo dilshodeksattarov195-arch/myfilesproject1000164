@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenfetch",
+        "uuid": 1190968,
+        "checksum": "n7m4kk"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
